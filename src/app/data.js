@@ -16,7 +16,7 @@ const catalogs = [
   {
     id: 'paratudo',
     title: 'Paratudo',
-    logo: '/logos/paratudo.png',
+    logo: '/logos/paratudo2.png',
     pdf: '/pdfs/Paratudo.pdf',
     filename: 'Paratudo.pdf',
   },
@@ -27,12 +27,19 @@ const catalogs = [
     pdf: '/pdfs/Stock-Kaly.pdf',
     filename: 'Stock-Kaly.pdf',
   },
-  {
+  /*{
     id: 'santarita',
     title: 'Santa Rita',
     logo: '/logos/santarita.png',
     pdf: '/pdfs/Santa-Rita.pdf',
     filename: 'Santa-Rita.pdf',
+  },*/
+  {
+    id: 'novaalianca',
+    title: 'Nova Aliança',
+    logo:'/logos/novaalianca.png',
+    pdf: '/pdfs/Nova-Alianca.pdf',
+    filename:'Nova-Alianca.pdf',
   },
 ]
 
