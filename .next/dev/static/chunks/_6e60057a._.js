@@ -24,7 +24,7 @@ const catalogs = [
     {
         id: 'paratudo',
         title: 'Paratudo',
-        logo: '/logos/paratudo2.png',
+        logo: '/logos/paratudo.png',
         pdf: '/pdfs/Paratudo.pdf',
         filename: 'Paratudo.pdf'
     },
@@ -44,7 +44,7 @@ const catalogs = [
   },*/ {
         id: 'novaalianca',
         title: 'Nova Aliança',
-        logo: '/logos/novaalianca.png',
+        logo: '/logos/novaalianca.svg',
         pdf: '/pdfs/Nova-Alianca.pdf',
         filename: 'Nova-Alianca.pdf'
     }
